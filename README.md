@@ -2,7 +2,7 @@
 
 
 # **Expense App**
-### [Code](./Projects/expenses_app/)
+### [Code](./Projects/expense_app/)
 ### [Live Demo](https://expense05.netlify.app/)
 
 
@@ -69,6 +69,20 @@
   - 
   - 
 
+
+<br/>
+
+-----------------------------------------------
+
+<br/>
+
+# **How React Work**
+### [Code](./Projects/how-react-work/)
+
+### Created With 
+  - memo
+  - useMemo
+  - useCallback
 
 <br/>
 
